@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Tooltip/static/css/main.7e19bab0.css",
+    "main.js": "/React-Tooltip/static/js/main.a38f68e7.js",
+    "index.html": "/React-Tooltip/index.html",
+    "main.7e19bab0.css.map": "/React-Tooltip/static/css/main.7e19bab0.css.map",
+    "main.a38f68e7.js.map": "/React-Tooltip/static/js/main.a38f68e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e19bab0.css",
+    "static/js/main.a38f68e7.js"
+  ]
+}
